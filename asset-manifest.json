@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Inboost-beta-task/static/css/main.74662d30.css",
-    "main.js": "/Inboost-beta-task/static/js/main.053d21a5.js",
+    "main.js": "/Inboost-beta-task/static/js/main.26df8448.js",
     "static/media/Logo.svg": "/Inboost-beta-task/static/media/Logo.e31ae450970de8dc77fc15f46b749900.svg",
     "static/media/Robot.svg": "/Inboost-beta-task/static/media/Robot.7358f69f9b62bf8053f5e1d4b3738fcd.svg",
     "static/media/Settings.svg": "/Inboost-beta-task/static/media/Settings.fc90e8a004f955178e4d26707bff8eeb.svg",
@@ -18,10 +18,10 @@
     "static/media/Add.svg": "/Inboost-beta-task/static/media/Add.45060932c58d41e4cd3ec53a5831414f.svg",
     "static/media/Remove.svg": "/Inboost-beta-task/static/media/Remove.6ec600b3c85d971ed029d635de5c3b27.svg",
     "main.74662d30.css.map": "/Inboost-beta-task/static/css/main.74662d30.css.map",
-    "main.053d21a5.js.map": "/Inboost-beta-task/static/js/main.053d21a5.js.map"
+    "main.26df8448.js.map": "/Inboost-beta-task/static/js/main.26df8448.js.map"
   },
   "entrypoints": [
     "static/css/main.74662d30.css",
-    "static/js/main.053d21a5.js"
+    "static/js/main.26df8448.js"
   ]
 }
