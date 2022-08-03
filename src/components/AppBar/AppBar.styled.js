@@ -1,12 +1,13 @@
 import styled from 'styled-components';
 
 export const BarWrapp = styled.section`
+  position: relative;
   width: 72px;
   height: 720px;
   background-color: #2c7dfa;
   border: 3px solid #2c7dfa;
   border-radius: 0px 30px 30px 0px;
-  z-index: 5;
+  z-index: 10;
 `;
 
 export const SvgBox = styled.a`
@@ -39,6 +40,4 @@ export const Line = styled.div`
   border-top: 2px solid rgba(255, 255, 255, 0.24);
 `;
 
-export const Link = styled.a`
-  
-`;
+export const Link = styled.a``;

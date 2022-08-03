@@ -11,7 +11,7 @@ export const Header = styled.header`
   justify-content: space-between;
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
   border-radius: 4px 4px 0px 0px;
-  z-index: -1;
+
 `;
 
 export const LinkToBack = styled.a`
