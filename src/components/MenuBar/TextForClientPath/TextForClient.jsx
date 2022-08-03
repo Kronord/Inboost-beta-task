@@ -20,7 +20,6 @@ const TextForClient = () => {
   const [open, setOpen] = useState(false);
   const [inputStr, setInputStr] = useState("Привіт😊 Щоб перейти до головного меню бота, натисніть кнопку внизу “📱Поділитися номером”");
   const [showEmoji, setShowEmoji] = useState(false);
-  const [chosenEmoji, setChosenEmoji] = useState(null);
 
   const onEmojiClick = (event, emojiObject) => {
     setInputStr(prevInput => prevInput + emojiObject.emoji);
@@ -46,7 +45,6 @@ const TextForClient = () => {
               onChange={e => setInputStr(e.target.value)}
 
             >
-              {chosenEmoji}
             </TextArea>
           </Container>
           {showEmoji && (
