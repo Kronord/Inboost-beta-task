@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "inboost-beta-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://Kronord.github.io/Inboost-beta-task/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
