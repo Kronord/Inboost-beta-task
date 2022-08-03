@@ -1,5 +1,5 @@
 import React from 'react';
-import { BarWrapp, SvgBox, List, Item, Line, AccLink } from './AppBar.styled';
+import { BarWrapp, SvgBox, List, Item, Line, AccLink, Link } from './AppBar.styled';
 import Logo from '../../Images/Logo.svg';
 import Account from '../../Images/Account.svg';
 import Contact from '../../Images/Contact.svg';
@@ -18,34 +18,34 @@ const AppBar = () => {
       </SvgBox>
       <List>
         <Item>
-          <a href='#'>
+          <Link href='#'>
             <ReactSVG src={Home} />
-          </a>
+          </Link>
         </Item>
         <Item>
-          <a href="#">
+          <Link href="#">
             <ReactSVG src={Robot} />
-          </a>
+          </Link>
         </Item>
         <Item>
-          <a href="#">
+          <Link href="#">
             <ReactSVG src={Contact} />
-          </a>
+          </Link>
         </Item>
         <Item>
-          <a href="#">
+          <Link href="#">
             <ReactSVG src={People} />
-          </a>
+          </Link>
         </Item>
         <Item>
-          <a href="#">
+          <Link href="#">
             <ReactSVG src={Place} />
-          </a>
+          </Link>
         </Item>
         <Item>
-          <a href="#">
+          <Link href="#">
             <ReactSVG src={Settings} />
-          </a>
+          </Link>
         </Item>
       </List>
       <Line />

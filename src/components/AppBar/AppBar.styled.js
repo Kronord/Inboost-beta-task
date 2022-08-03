@@ -38,3 +38,7 @@ export const Line = styled.div`
   margin-top: 140px;
   border-top: 2px solid rgba(255, 255, 255, 0.24);
 `;
+
+export const Link = styled.a`
+  
+`;
